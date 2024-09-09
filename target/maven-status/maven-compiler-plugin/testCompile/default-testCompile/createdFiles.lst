@@ -1,0 +1,6 @@
+org\hepsiburada\log\Log.class
+org\hepsiburada\model\Gen.class
+org\hepsiburada\utilities\Configuration.class
+org\hepsiburada\tests\Scenarios.class
+org\hepsiburada\utilities\Configuration$LazyHolder.class
+org\hepsiburada\httpMethods\Methods.class

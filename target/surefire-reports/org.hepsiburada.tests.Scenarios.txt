@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.hepsiburada.tests.Scenarios
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.341 s <<< FAILURE! - in org.hepsiburada.tests.Scenarios
+org.hepsiburada.tests.Scenarios.addGenLanguage  Time elapsed: 2.539 s  <<< FAILURE!
+java.lang.AssertionError: expected:<500> but was:<200>
+	at org.hepsiburada.tests.Scenarios.addGenLanguage(Scenarios.java:41)
+
